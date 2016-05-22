@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EPlanetas</string>
+    <string name="login_usr">Usuario</string>
+    <string name="login_password">Password</string>
+    <string name="login_in">Entrar</string>
+    <string name="login_reg">Registrate</string>
+</resources>
